@@ -1,0 +1,2 @@
+# Scanning and Enumeration
+### Run Nmap against 10.10.10.68 and observe that web server is running on port 80.
